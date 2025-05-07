@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="td_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="td" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="74620fs"></ZoomStartTime>
+      <ZoomEndTime time="880054fs"></ZoomEndTime>
+      <Cursor1Time time="562761fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="163"></NameColumnWidth>
+      <ValueColumnWidth column_width="229"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="28" />
+   <wvobject fp_name="/td/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/EXECUTE/result" type="array">
+      <obj_property name="ElementShortName">result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">result[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/data1" type="array">
+      <obj_property name="ElementShortName">data1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/data2" type="array">
+      <obj_property name="ElementShortName">data2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/buff_pc/pcf" type="array">
+      <obj_property name="ElementShortName">pcf[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcf[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/read_in/buff" type="array">
+      <obj_property name="ElementShortName">buff[63:0]</obj_property>
+      <obj_property name="ObjectShortName">buff[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/buff_Fe" type="array">
+      <obj_property name="ElementShortName">buff_Fe[63:0]</obj_property>
+      <obj_property name="ObjectShortName">buff_Fe[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/buff_de" type="array">
+      <obj_property name="ElementShortName">buff_de[118:0]</obj_property>
+      <obj_property name="ObjectShortName">buff_de[118:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/StallF" type="logic">
+      <obj_property name="ElementShortName">StallF</obj_property>
+      <obj_property name="ObjectShortName">StallF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/StallD" type="logic">
+      <obj_property name="ElementShortName">StallD</obj_property>
+      <obj_property name="ObjectShortName">StallD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/flushE" type="logic">
+      <obj_property name="ElementShortName">flushE</obj_property>
+      <obj_property name="ObjectShortName">flushE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/regwrite" type="logic">
+      <obj_property name="ElementShortName">regwrite</obj_property>
+      <obj_property name="ObjectShortName">regwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/EXECUTE/regwrite" type="logic">
+      <obj_property name="ElementShortName">regwrite</obj_property>
+      <obj_property name="ObjectShortName">regwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/MEMORY/regwrite" type="logic">
+      <obj_property name="ElementShortName">regwrite</obj_property>
+      <obj_property name="ObjectShortName">regwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/writeback/regwrite" type="logic">
+      <obj_property name="ElementShortName">regwrite</obj_property>
+      <obj_property name="ObjectShortName">regwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/regw" type="logic">
+      <obj_property name="ElementShortName">regw</obj_property>
+      <obj_property name="ObjectShortName">regw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/buff_ex" type="array">
+      <obj_property name="ElementShortName">buff_ex[71:0]</obj_property>
+      <obj_property name="ObjectShortName">buff_ex[71:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/buff_me" type="array">
+      <obj_property name="ElementShortName">buff_me[70:0]</obj_property>
+      <obj_property name="ObjectShortName">buff_me[70:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/D_reg" type="array">
+      <obj_property name="ElementShortName">D_reg[4:0]</obj_property>
+      <obj_property name="ObjectShortName">D_reg[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/toreg" type="array">
+      <obj_property name="ElementShortName">toreg[31:0]</obj_property>
+      <obj_property name="ObjectShortName">toreg[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/EXECUTE/cal_out" type="array">
+      <obj_property name="ElementShortName">cal_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cal_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/MEMORY/cal_out" type="array">
+      <obj_property name="ElementShortName">cal_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cal_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/DECODE/reg2" type="array">
+      <obj_property name="ElementShortName">reg2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/EXECUTE/num2" type="array">
+      <obj_property name="ElementShortName">num2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">num2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/MEMORY/num2" type="array">
+      <obj_property name="ElementShortName">num2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">num2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/td/dut/path/MEMORY/memwrite" type="logic">
+      <obj_property name="ElementShortName">memwrite</obj_property>
+      <obj_property name="ObjectShortName">memwrite</obj_property>
+   </wvobject>
+</wave_config>

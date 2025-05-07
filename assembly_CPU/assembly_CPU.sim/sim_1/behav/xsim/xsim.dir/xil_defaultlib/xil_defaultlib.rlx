@@ -1,0 +1,25 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sim_1/new/td.v,1746452165,verilog,,,,td,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/ip/blk_mem_gen_1/sim/blk_mem_gen_1.v,1746440556,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/ip/instructionROM_1/sim/instructionROM.v,,blk_mem_gen_1,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/ip/instructionROM_1/sim/instructionROM.v,1746498696,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/ALU_cal.v,,instructionROM,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/ALU_cal.v,1746418370,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Decode.v,,ALU_cal,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Decode.v,1746501720,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Execute.v,,Decode,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Execute.v,1746500963,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Hazard.v,,Execute,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Hazard.v,1746501445,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Memory.v,,Hazard,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Memory.v,1746502481,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Writeback.v,,Memory,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/Writeback.v,1746435719,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/alu_con.v,,Writeback,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/alu_con.v,1746418373,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/controler.v,,alu_con,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/controler.v,1746464958,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/datapath.v,,controler,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/datapath.v,1746501338,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/extend.v,,datapath,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/extend.v,1746418376,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/multichoose_3.v,,extend,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/multichoose_3.v,1746428958,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/multichose.v,,multichoose_3,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/multichose.v,1746418384,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/my_pc.v,,multichose,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/my_pc.v,1746456960,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/pc_buff.v,,mypc,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/pc_buff.v,1746500389,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/r_instruction.v,,pc_buff,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/r_instruction.v,1746501720,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/regfile.v,,r_instruction,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/regfile.v,1746418386,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/topone.v,,regfile,,,,,,,,
+D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sources_1/new/topone.v,1746440356,verilog,,D:/vivado/vr_code/assembly_CPU/assembly_CPU.srcs/sim_1/new/td.v,,topone,,,,,,,,
